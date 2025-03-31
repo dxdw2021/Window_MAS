@@ -2,6 +2,21 @@
 
 <h1 align="center">Microsoft 激活脚本 (MAS)</h1>
 
+<p align="center">
+  <a href="https://github.com/dxdw2021/Window_MAS/blob/master/All-In-One-Version-KL/MAS_AIO.cmd">
+    <img src="https://img.shields.io/badge/英文-Version%203.0-blue" alt="英文_Version 3.0">
+  </a>
+  <a href="https://github.com/dxdw2021/Window_MAS/blob/master/All-In-One-Version-KL/MAS_AIO%20-%20CN-EN-%E4%B8%AD%E8%8B%B1%E6%96%87.cmd">
+    <img src="https://img.shields.io/badge/中英文-Version%203.0-green" alt="中英_Version 3.0">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://note.youdao.com/s/PmjCPS5s">
+    <img src="https://img.shields.io/badge/无人值守命令-文档-orange" alt="无人值守命令">
+  </a>
+</p>
+
 <p align="center">开源的 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge、KMS38 和在线 KMS 等激活方式，并提供高级故障排除功能。</p>
 
 <hr>
