@@ -18,7 +18,9 @@
 </p>
 
 <p align="center">开源的 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge、KMS38 和在线 KMS 等激活方式，并提供高级故障排除功能。</p>
+
 ![image](https://github.com/user-attachments/assets/2402dce1-175f-4f00-8a77-c9f7de662db9)
+
 <hr>
   
 ## 下载 / 如何使用？
